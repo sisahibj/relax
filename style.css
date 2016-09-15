@@ -1,0 +1,183 @@
+
+
+#home{
+	background: url("1.jpg");
+	-moz-background-size: cover;
+	background-attachment: fixed;
+	background-size: cover;
+	width: 100%;
+	display: block;
+	height: auto;
+	padding-top:190px;
+    padding-bottom:300px;
+    color:#fff;
+	
+}
+
+
+div{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+	font-weight: bolder;
+	font-size: 27px;
+    font-weight:900;
+	letter-spacing: 2px;
+}
+
+.navbar-inverse{
+	background: #E91C1C;
+	border-color: #E91C1C;
+	padding: 5px;
+	}
+
+.navbar-inverse :hover .navbar-brand:hover {
+	color: white;	
+}
+
+.navbar-inverse .navbar-nav > li > a{
+color: #FFFFFF;
+}
+
+
+.navi{
+	font-size: 16px;
+	
+}
+
+
+.head{
+	text-align: center;
+}
+
+.icon{
+	text-align: center;
+}
+
+.head-main {
+    font-size:60px ;
+    font-weight:900;
+    border:5px double #fff;
+    padding:5px;
+    text-transform:uppercase;
+	
+    
+}
+
+.head-sub{
+	color: red;
+	text-align: center;
+	padding: 50px 20px 10px 20px;
+	text-transform:uppercase;
+	font-size:23px;
+}
+
+.head-last {
+    font-size:22.5px ;
+    font-weight:900;
+    padding:5px;
+    border:1px dotted #fff;
+    
+}
+
+.go-marg {
+    margin-top:40px;
+    color:#E91C1C;
+}
+
+.pad{
+padding: 12px;
+}
+
+.head-services{
+	text-align: center;
+	}
+
+.fa{
+	color: #E91C1C;
+}
+
+.alignment{
+	text-align: center;
+	padding: 12px;
+	
+}
+
+#pricing{
+	background-color: #f5f3f3;
+	
+}
+
+.plan{
+	background:white;
+	list-style:none;
+	padding: 0 0 15px 0;
+	margin:30px 0px;
+}
+	
+.plan li{
+	padding-bottom: 10px ;
+	color: #000;
+	font-size:15px;
+	border-bottom: 1px dotted #e1e1e1;
+	margin-top:15px;
+	margin-bottom:15px;
+
+}
+
+
+.plan li.plan-head{
+	padding:40px;
+	line-height:35px;
+	font-size:35px;
+	font-weight:500;
+	border:none;
+}
+
+.plan li.main-price{
+	font-weight: 900;
+	font-size: 60px;
+	border: none;
+	padding: 25px 0px;
+	color: #FF8500
+}
+
+small{
+	font-size: 15px;
+	color: #000;
+	
+}
+
+.contact-head{
+	text-align: center;
+	margin-bottom: 85px;
+	}
+
+#contact{
+	background-color: #f5f3f3;
+}
+.cnt{
+	min-height: 350px;
+	width:100%;
+	border: 1px solid #e1e1e1;
+}
+
+#footer{
+	background-color: #e91C1C;
+	text-align: right;
+	padding: 20px 50px 20px 50px;
+	color: #fff;
+	
+}
+
+.col{
+	width: 33%;
+	margin:1px;
+	
+	
+}
+
+
